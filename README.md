@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dechdecho suamkumpung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dechdecho suamkumpung" height="30" width="40" /></a>
+<a href="https://twitter.com/Dechdecho_dday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dechdecho suamkumpung" height="30" width="40" /></a>
 <a href="https://fb.com/dday dechdeshow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dday dechdeshow" height="30" width="40" /></a>
 <a href="https://instagram.com/dxday_.dxch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dxday_.dxch" height="30" width="40" /></a>
 <a href="https://discord.gg/759219071010471966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="759219071010471966" height="30" width="40" /></a>
