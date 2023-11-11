@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daradeeday&label=Profile%20views&color=0e75b6&style=flat" alt="daradeeday" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dechdecho suamkumpung" target="blank"><img src="https://img.shields.io/twitter/follow/dechdecho suamkumpung?logo=twitter&style=for-the-badge" alt="dechdecho suamkumpung" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Dechdecho_dday" target="blank"><img src="https://img.shields.io/twitter/follow/dechdecho suamkumpung?logo=twitter&style=for-the-badge" alt="@Dechdecho_dday" /></a> </p>
 
 - 💬 Ask me about **work**
 
