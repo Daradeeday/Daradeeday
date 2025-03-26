@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Day Dechdecho</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
-
+<img src="https://github.com/Daradeeday/Daradeeday/blob/main/Build%20and%20Deploy.png?raw=true" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daradeeday&label=Profile%20views&color=0e75b6&style=flat" alt="daradeeday" /> </p>
