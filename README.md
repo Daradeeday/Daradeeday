@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="assets/hero.svg" alt="DAY — Full-stack Developer & Maker" width="100%" />
@@ -39,7 +39,7 @@ Nakhon Ratchasima, Thailand 🇹🇭
 
 ## `01` — ABOUT ME
 
-```js
+js
 const day = {
   role: "Full-stack Developer & Maker",
   location: "Nakhon Ratchasima, Thailand",
@@ -52,7 +52,7 @@ const day = {
   ],
   philosophy: "If it can be built, let's build it."
 };
-```
+
 
 I like building things that actually work.
 
